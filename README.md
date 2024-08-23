@@ -116,12 +116,9 @@ so by running the following command:
 ```
 
 When you are done, the output should look something like this:
-<img width="644" alt="image" src="https://github.com/PradeepSahhu/CustomSubnet-using-HyperSDK/assets/94203408/0b7009a1-eaca-44db-a40c-9bd476cc0592">
+![image](https://github.com/user-attachments/assets/9e6a3b8b-52ba-419a-b09a-eaad6f626eef)
 
 
-All the operations together.
-
-<img width="729" alt="image" src="https://github.com/PradeepSahhu/CustomSubnet-using-HyperSDK/assets/94203408/84636e04-3362-4414-a9e6-d2bd8c5cc35e">
 
 
 After all this we can stop our running subnet network by using: 
