@@ -15,7 +15,8 @@
 
 <p align="center">setting the constants in consts/consts.go</p>
 
-<img align="center" width="581" alt="image" src="![image](https://github.com/user-attachments/assets/c3def730-06b7-4ef5-b8cb-8fc76f43cdc0)">
+![image](https://github.com/user-attachments/assets/748fa5a9-51da-4c9b-a5df-a326fa66b874)
+
 
 
 <p align="center">Adding the code in registry/registry.go</p>
