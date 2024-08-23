@@ -124,58 +124,14 @@ All the operations together.
 <img width="729" alt="image" src="https://github.com/PradeepSahhu/CustomSubnet-using-HyperSDK/assets/94203408/84636e04-3362-4414-a9e6-d2bd8c5cc35e">
 
 
-Apart from the above shown function our custom subnet can also perform following function.
-
-
-#### Step 4: Create an Order
-
-```bash
-./build/token-cli action create-order
-```
-
-#### Step 5: Fill Part of the Order
-
-```bash
-./build/token-cli action fill-order
-```
-
-
-#### Step 6: Close Order
-
-```bash
-./build/token-cli action close-order
-```
-
-
-#### Watch Activity in Real-Time
-
-```bash
-./build/token-cli chain watch
-```
-
-### Transfer Assets to Another Subnet
-
-```bash
-./build/token-cli action export
-```
-
-
-
-### Running a Load Test
-
-```bash
-./scripts/tests.load.sh
-```
-
-
-#### Measuring Disk Speed
-
-```bash
-./scripts/tests.disk.sh
-```
-
 After all this we can stop our running subnet network by using: 
  to stop the network we started using
 `killall avalanche-network-runner`._
+
+#3 Author
+Suryansh Mishra @suryanshmihsra0704@gmail.com
+
+## License
+This project is licensed under the Apache License 2.0 - see the LICENSE.md file for details
 
 
