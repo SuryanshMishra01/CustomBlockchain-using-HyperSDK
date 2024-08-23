@@ -12,19 +12,19 @@
 </p>
 
 # Customized Blockchain Using HyperSDK
+In this project we are making some changes in the initial github repository which will create a custom blockchain on HyperSDK framework using 'Go' language.
 
-<p align="center">setting the constants in consts/consts.go</p>
-
+## Getting Started
+1) setting the constants in consts/consts.go
+   
 ![image](https://github.com/user-attachments/assets/748fa5a9-51da-4c9b-a5df-a326fa66b874)
 
-
-
-<p align="center">Adding the code in registry/registry.go</p>
+2) Adding the code in registry/registry.go
 
 ![image](https://github.com/user-attachments/assets/b212ecd4-c511-4e6c-bf35-6efcffa4a10e)
 
 
-<p >launching the subnet using the following command.</p>
+launching the hyperchain using the following command.
 
 ```bash
 ./scripts/run.sh;
