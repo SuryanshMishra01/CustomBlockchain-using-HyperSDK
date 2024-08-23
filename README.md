@@ -21,7 +21,7 @@
 
 <p align="center">Adding the code in registry/registry.go</p>
 
-<img width="822" alt="image" src="https://github.com/PradeepSahhu/CustomSubnet-using-HyperSDK/assets/94203408/7c0a2b58-d2cb-490e-996f-f3f3f392d191">
+![image](https://github.com/user-attachments/assets/b212ecd4-c511-4e6c-bf35-6efcffa4a10e)
 
 
 <p >launching the subnet using the following command.</p>
