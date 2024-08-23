@@ -128,7 +128,7 @@ After all this we can stop our running subnet network by using:
  to stop the network we started using
 `killall avalanche-network-runner`._
 
-#3 Author
+## Author
 Suryansh Mishra @suryanshmihsra0704@gmail.com
 
 ## License
