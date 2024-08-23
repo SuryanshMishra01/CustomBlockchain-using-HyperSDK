@@ -11,11 +11,11 @@
 <!--   <a href="https://github.com/ava-labs/hypersdk/actions/workflows/tokenvm-load-tests.yml"><img src="https://github.com/ava-labs/hypersdk/actions/workflows/tokenvm-load-tests.yml/badge.svg" /></a> -->
 </p>
 
-# Customized Subnet Using HyperSDK
+# Customized Blockchain Using HyperSDK
 
 <p align="center">setting the constants in consts/consts.go</p>
 
-<img align="center" width="581" alt="image" src="https://github.com/PradeepSahhu/CustomSubnet-using-HyperSDK/assets/94203408/ea421d68-0053-4505-92b2-bb6c53cae845">
+<img align="center" width="581" alt="image" src="![image](https://github.com/user-attachments/assets/c3def730-06b7-4ef5-b8cb-8fc76f43cdc0)">
 
 
 <p align="center">Adding the code in registry/registry.go</p>
