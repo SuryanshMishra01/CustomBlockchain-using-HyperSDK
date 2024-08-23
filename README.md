@@ -85,7 +85,8 @@ let's create our own asset. You can do so by running the following command:
 ```
 
 When you are done, the output should look something like this:
-<img width="580" alt="image" src="https://github.com/PradeepSahhu/CustomSubnet-using-HyperSDK/assets/94203408/cddbac13-4afd-4e37-906c-079c039c6885">
+
+![image](https://github.com/user-attachments/assets/0ccc04d1-9cd8-4f42-87ec-c4a7a2fa8b34)
 
 
 _`txID` is the `assetID` of your new asset._
@@ -102,7 +103,7 @@ running the following command:
 
 When you are done, the output should look something like this:
 
-<img width="595" alt="image" src="https://github.com/PradeepSahhu/CustomSubnet-using-HyperSDK/assets/94203408/58100ab6-150c-4f90-89f5-15066e1ac0a7">
+![image](https://github.com/user-attachments/assets/0b7ca284-ebeb-49f6-9607-ec7ea2182aa0)
 
 
 
@@ -116,10 +117,8 @@ so by running the following command:
 ```
 
 When you are done, the output should look something like this:
+
 ![image](https://github.com/user-attachments/assets/9e6a3b8b-52ba-419a-b09a-eaad6f626eef)
-
-
-
 
 After all this we can stop our running subnet network by using: 
  to stop the network we started using
